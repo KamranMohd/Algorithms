@@ -6,7 +6,9 @@ package com.geeksforgeeks.array;
 
 public class Candies {
 	public static void main(String[] args) {
-		int arr[] = { 4, 6, 4, 5, 6, 2 };
+		//int arr[] = { 4, 6, 4, 5, 6, 2 };
+		int arr[] = {9, 2, 3, 6, 5, 4, 3, 2, 2, 2};
+				//  {2, 1, 2, 5, 4, 3, 2, 1, 1, 1} = 22 To prove why values[i] = temp on line 31
 		System.out.println(getMinCandies(arr, arr.length));
 	}
 
@@ -26,7 +28,7 @@ public class Candies {
 			} else
 				temp = 1;
 			minCan += Math.max(temp, values[i]);
-			values[i] = temp;
+			//values[i] = temp;
 		}
 		return minCan;
 	}
