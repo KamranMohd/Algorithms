@@ -5,7 +5,7 @@ package com.geeksforgeeks.dp;
  * Similar to https://www.geeksforgeeks.org/find-maximum-possible-stolen-value-houses/
  */
 
-public class SumWithNoThreeAdjacent {
+public class SumWithNo2Adjacent {
 
 	public static void main(String[] args) {
 		//int a[] = {-2, -3, 4, -1, -2, 1, 5, -3};

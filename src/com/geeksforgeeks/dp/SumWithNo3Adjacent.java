@@ -4,7 +4,7 @@ package com.geeksforgeeks.dp;
  * https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/
  */
 
-public class SumWithNoAdjacent {
+public class SumWithNo3Adjacent {
 
 	public static void main(String[] args) {
 		//int a[] = {-2, -3, 4, -1, -2, 1, 5, -3};
