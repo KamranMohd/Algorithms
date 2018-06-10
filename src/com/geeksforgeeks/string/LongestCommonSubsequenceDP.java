@@ -1,6 +1,6 @@
 package com.geeksforgeeks.string;
 
-public class LeastCommonSubsequenceDynamicProgramming {
+public class LongestCommonSubsequenceDP {
 
 	public static void main(String[] args) {
 		//String str1 = "ABCDGH";

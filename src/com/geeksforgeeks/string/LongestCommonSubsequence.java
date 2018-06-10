@@ -1,6 +1,6 @@
 package com.geeksforgeeks.string;
 
-public class LeastCommonSubsequence {
+public class LongestCommonSubsequence {
 
 	public static void main(String[] args) {
 		//String str1 = "ABCDGH";
